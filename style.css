@@ -1,0 +1,38 @@
+body {
+  background: #f0e68c;
+  text-align: center;
+  margin: 30px;
+  padding: 20px;
+  border: 5px solid #a52a2a;
+}
+{
+#img-div > img 
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin: auto;
+  border: 6px solid #a52a2a; 
+}
+h1 {
+  color: #590059;
+  font-family: "Montserrat", sans-serif;
+  font-size: 50px;
+  margin-bottom: 25px;
+}
+
+tribute-info {
+  margin: lem;
+  padding: 10px;
+  border: 10px;
+  
+}
+h2 {
+  color: #800080;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 30px;
+}
+h3 {
+  color: #800080;
+  font-size: 20px;
+}
